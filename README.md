@@ -11,8 +11,6 @@ $output		= $pagination->build('somelink/page/','ul','li','ul-class','li-class', 
 echo $output;
 ```
 
-![alt text](http://ozanakman.com.tr/github/pagination-example.png "Pagination Example")
-
 Please check example.php file for more information.
 
 ## Installation
